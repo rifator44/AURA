@@ -1,12 +1,3 @@
-# 1. Create and enter the project directory
-mkdir aura-plus-plus
-cd aura-plus-plus
-
-# 2. Initialize the Git repository
-git init
-
-# 3. Create the README.md with your content
-cat <<EOF > README.md
 # **AURA++** **Simplify Events, Amplify Experiences with AURA++**
 
 ---
